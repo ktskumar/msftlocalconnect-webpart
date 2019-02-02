@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "msftlocalconnect-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/msftlocalconnect/MsftlocalconnectWebPart.js",
+          "manifest": "./src/webparts/msftlocalconnect/MsftlocalconnectWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "MsftlocalconnectWebPartStrings": "lib/webparts/msftlocalconnect/loc/{locale}.js"
+  }
+}

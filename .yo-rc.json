@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "msftlocalconnect-webpart",
+    "libraryId": "667f2c46-724e-4217-bb06-6a3653097f6e",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
