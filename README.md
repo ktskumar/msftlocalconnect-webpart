@@ -1,6 +1,7 @@
 ## msftlocalconnect-webpart
 
 This is where you include your WebPart documentation.
+Test 1
 
 ### Building the code
 
